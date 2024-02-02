@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1016022023695",
+    "project_id": "fir-kotlin-4c972",
+    "storage_bucket": "fir-kotlin-4c972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016022023695:android:149897697e2d40b7922d7a",
+        "android_client_info": {
+          "package_name": "sk.kasv.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3_10hZc9nUheAt3zIsDJixxj1OCWZG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  "databaseURL": "https://fir-kotlin-4c972-default-rtdb.europe-west1.firebasedatabase.app"
+}
